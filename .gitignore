@@ -179,6 +179,7 @@ slides/webgl
 /public/zh/documents
 /public/en/documents
 /public/*.html
+my-debug/public/**
 
 
 # Editor temporal files
